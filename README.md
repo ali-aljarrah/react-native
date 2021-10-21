@@ -1,1 +1,1 @@
-# react-native base project
+# react-native base app
